@@ -139,6 +139,7 @@ tzdata
 tzlocal
 uri-template
 urllib3==1.25.4
+vaderSentiment
 validators
 wcwidth
 webcolors
