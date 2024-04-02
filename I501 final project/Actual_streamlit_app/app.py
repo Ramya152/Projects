@@ -1,13 +1,9 @@
 import os
-import matplotlib.pyplot as plt 
-
-import streamlit as st
-from dotenv import load_dotenv
-
 from utils.b2 import B2
-
-import matplotlib.pyplot as plt
+from dotenv import load_dotenv
+import streamlit as st
 import pandas as pd
+import matplotlib.pyplot as plt 
 
 
 # ------------------------------------------------------
