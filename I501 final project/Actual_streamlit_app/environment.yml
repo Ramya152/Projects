@@ -1,6 +1,6 @@
 name: streamlit
 dependencies:
-  - python=3.11
+  - python=3.9  
   - pip
   - pip:
     - pandas
@@ -10,3 +10,4 @@ dependencies:
     - ipykernel
     - vaderSentiment
     - plotly==5.19.0
+    - matplotlib
