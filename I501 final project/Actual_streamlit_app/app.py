@@ -59,5 +59,5 @@ if page == "Visualization":
     ax.set_xticklabels(agency_counts.index, rotation=45, ha='right')
     st.pyplot(fig)
 elif page == "View Data":
-    st.header("View Subset of Data")
+    st.header("View Subset o f Data")
     st.dataframe(df_homicide.head(10))
